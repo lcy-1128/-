@@ -1,0 +1,6 @@
+{
+  "name": "이채영 포트폴리오 | AI & Software Developer",
+  "description": "부산외국어대학교 영어·소프트웨어·AI에이전트개발 전공 이채영의 AI 자동화, RAG 시스템, Python 데이터 분석 포트폴리오",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
